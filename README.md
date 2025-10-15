@@ -10,6 +10,10 @@ I also have expertise in SAP Business One (B1), combining a strong technical fou
 
 I’m passionate about building products that deliver real business impact, contributing to all stages of the development lifecycle: requirements, architecture, coding, testing, validation, documentation, and user training.
 
+In this repository, I present a summary of the main development projects I worked on during my time as a developer at consulting firms specializing in SAP Business One (B1).
+
+Note: The original source codes and repositories are the property of the company and cannot be publicly shared. The information provided here is generic, focusing on my technical contributions.
+
 * 🌍  I'm based in Minas Gerais
 * 🖥️  See my portfolio at [Meu Portifólio](http://github.com/P-mendes917/P-mendes917)
 * ✉️  You can contact me at [pamendes321@gmail.com](mailto:pamendes321@gmail.com)
