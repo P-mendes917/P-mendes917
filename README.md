@@ -19,7 +19,7 @@ Note: The original source codes and repositories are the property of the company
 
 - SAP Business One (B1)
 - DI API / Service Layer / UI API
-- Banco de Dados (SAP HANA e SQL Server)
+- Data Base (SAP HANA e SQL Server)
 - C# | .NET (4.8, 6, 7, 8)
 - ASP.NET
 - Angular
