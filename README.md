@@ -33,7 +33,7 @@ Note: The original source codes and repositories are the property of the company
 --------------------------------------
 
 * 🌍  I'm based in Minas Gerais
-* 🖥️  See my portfolio at [Meu Portifólio](http://github.com/P-mendes917/P-mendes917)
+* 🖥️  See my SAP B1 portfolio at [SAP B1 Projects](http://github.com/P-mendes917/projetos-consultoria-sap-b1)
 * ✉️  You can contact me at [pamendes321@gmail.com](mailto:pamendes321@gmail.com)
 
 
