@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pamela Sousa
 =====================================================================================================================================
 
-C# | .NET | Angular | SAP B1 Developer
+C# | .NET | SAP B1 Developer
 --------------------------------------
 
 Back-end Developer focused on C# and .NET, specializing in system integration, bot creation, and process automation. Since 2019, I have been developing scalable, secure, and high-performance backend solutions, with solid experience in integrations, REST APIs, and corporate portals.
